@@ -146,7 +146,7 @@ void prender(int estacion)
 ~~~
 
 ## :robot: Link al proyecto
-- [proyecto](https://www.tinkercad.com/things/kLSWQ8xen0J-epic-amur-rottis/editel?sharecode=yGe7JoNhzFZZntWk1Nmw2bO2M5H7eaMdJYq9L61Stuc&sharecode=yGe7JoNhzFZZntWk1Nmw2bO2M5H7eaMdJYq9L61Stuc)
+- [proyecto](https://www.tinkercad.com/things/kLSWQ8xen0J-epic-amur-rottis/editel?sharecode=yGe7JoNhzFZZntWk1Nmw2bO2M5H7eaMdJYq9L61Stuc)
 
 ---
 ### Fuentes
